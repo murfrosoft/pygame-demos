@@ -8,7 +8,7 @@ clock = pygame.time.Clock()  # create a clock to control update speed
 width, height = 500, 400
 screensize = [width, height]  # [width, height] in pixels
 screen = pygame.display.set_mode(screensize)
-pygame.display.set_caption('demo02: Basic Annimation')   # title of screen window
+pygame.display.set_caption('demo03: More Annimation')   # title of screen window
 
 # initialize font
 font = pygame.font.SysFont(None, 16)  # font size = 16
